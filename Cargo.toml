@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 reqwest = { version = "0.10", features = ["json"] }
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.5", features = ["full"] }
 scraper = "*"
